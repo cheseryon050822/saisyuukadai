@@ -74,7 +74,94 @@
     font-family: cursive;
 }
 .sans4{
-    width: 500px;
-    height: 50px;
-    background-color: cornsilk;
+    width: 400px;
+    height: 40px;
+    background-color: yellow;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
+  }
+.text⑨{
+    color: red;
+    font-size: 20px;
 }
+.sans5{
+    width: 400px;
+    height: 140px;
+    background-color: navy;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
+  }
+.text10{
+    font-size: 20px;
+    color: white;
+}
+
+.n1{
+width: 95px;
+height: 100px;
+background-color: navy;
+}
+.r1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.n2{
+    width: 95px;
+    height: 100px;
+    background-color: navy;
+    }
+    .r2{
+        width: 100px;
+        height: 100px;
+        background-color: red;
+    }
+    .n3{
+        width: 95px;
+        height: 100px;
+        background-color: navy;
+        }
+        .r3{
+            width:100px;
+            height: 100px;
+            background-color: red;
+        }
+        .n4{
+            width:95px;
+            height: 100px;
+            background-color: navy;
+            }
+            .r4{
+                width:100px;
+                height: 100px;
+                background-color: red;
+            }
+            .n5{
+                width: 95px;
+                height: 100px;
+                background-color: navy;
+                }
+                .r5{
+                    width:100px;
+                    height: 100px;
+                    background-color: red;
+                }
+                .n6{
+                    width: 95px;
+                    height: 100px;
+                    background-color: navy;
+                    }
+                .r6{
+                    width: 100px;
+                    height: 100px;
+                    background-color: red;
+                }
+                .n7{
+                    width: 95px;
+                    height: 100px;
+                    background-color: navy;
+                    }
