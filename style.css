@@ -120,6 +120,10 @@
     height: 80px;
     background-color: red;
     border-radius:30px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
 }
 .l2{
     width: 10px;
@@ -131,6 +135,10 @@
     height: 80px;
     background-color: red;
     border-radius:30px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
 }
 .l3{
     width: 10px;
@@ -142,6 +150,10 @@
     height: 80px;
     background-color: red;
     border-radius:30px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
 }
 .l4{
     width: 10px;
@@ -153,6 +165,10 @@
     height: 80px;
     background-color: red;
     border-radius:30px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
 }
 .l5{
     width: 10px;
@@ -164,4 +180,13 @@
     height: 80px;
     background-color: red;
     border-radius:30px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
+}
+.text11{
+    font-size: 15px;
+    color:white ;
+font-family: cursive;
 }
