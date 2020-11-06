@@ -53,7 +53,7 @@
 }
 .sans2{
     width: 859px;
-    height: 500px;
+    height: 330px;
     background-color: navy;
     text-align: center;
 }
@@ -89,7 +89,7 @@
 }
 .sans5{
     width: 400px;
-    height: 140px;
+    height: 40px;
     background-color: navy;
     bottom: 0px;
     left: 0px;
@@ -101,10 +101,10 @@
     color: yellow;
 }
 .k1{
-    width: 120px;
-    height: 80px;
+    width: 80px;
+    height: 60px;
     background-color: red;
-    border-radius:30px;
+    border-radius:10px;
     bottom: 0px;
     left: 0px;
     right: 0px;
@@ -116,10 +116,10 @@
     background-color: navy;
 }
 .k2{
-    width: 120px;
-    height: 80px;
+    width: 80px;
+    height: 60px;
     background-color: red;
-    border-radius:30px;
+    border-radius:10px;
     bottom: 0px;
     left: 0px;
     right: 0px;
@@ -131,10 +131,10 @@
     background-color: navy;
 }
 .k3{
-    width: 120px;
-    height: 80px;
+    width: 80px;
+    height: 60px;
     background-color: red;
-    border-radius:30px;
+    border-radius:10px;
     bottom: 0px;
     left: 0px;
     right: 0px;
@@ -146,10 +146,10 @@
     background-color: navy;
 }
 .k4{
-    width: 120px;
-    height: 80px;
+    width: 80px;
+    height: 60px;
     background-color: red;
-    border-radius:30px;
+    border-radius:10px;
     bottom: 0px;
     left: 0px;
     right: 0px;
@@ -161,10 +161,10 @@
     background-color: navy;
 }
 .k5{
-    width: 120px;
-    height: 80px;
+    width: 80px;
+    height: 60px;
     background-color: red;
-    border-radius:30px;
+    border-radius:10px;
     bottom: 0px;
     left: 0px;
     right: 0px;
@@ -176,17 +176,27 @@
     background-color: navy;
 }
 .k6{
-    width: 120px;
-    height: 80px;
+    width: 80px;
+    height:60px;
     background-color: red;
-    border-radius:30px;
+    border-radius:10px;
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin:auto;
 }
 .text11{
-    font-size: 15px;
+    font-size: 12px;
     color:white ;
 font-family: cursive;
+}
+.sans6{
+    width: 400px;
+    height: 330px;
+    background-color: navy;
+}
+.under1{
+    width: 1259px;
+    height: 200px;
+    background-color: rgb(255, 247, 172);
 }
