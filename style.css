@@ -8,7 +8,7 @@
     width: 1260px;
     height: auto;
     margin: auto;
-}
+}    
 .sans1{
    width: 1259px;
    height: 40px;
@@ -61,6 +61,7 @@
     color:white;
     font-size: 15px;
     font-family: unset;
+    margin: 0;
 }
 .sans3{
     width: 400px;
@@ -197,6 +198,21 @@ font-family: cursive;
 }
 .under1{
     width: 1259px;
-    height: 200px;
+    height: 80px;
     background-color: rgb(255, 247, 172);
+}
+
+.text12{
+    font-size: 25px;
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+.under2{
+    width: 119px;
+    background-color: rgb(255, 247, 172);
+}
+.under3{
+    width: 300px;
+    height: ;
 }
