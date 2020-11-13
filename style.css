@@ -197,7 +197,7 @@ font-family: cursive;
     background-color: navy;
 }
 .under1{
-    width: 1259px;
+    width: 100%;
     height: 80px;
     background-color: rgb(255, 247, 172);
 }
@@ -209,10 +209,23 @@ font-family: cursive;
     margin: 0;
 }
 .under2{
-    width: 119px;
+    width: 120px;
+    height: 275px;
     background-color: rgb(255, 247, 172);
 }
 .under3{
-    width: 300px;
-    height: ;
+    width: 280px;
+    height: 40px;
+    background-color:  rgb(255, 247, 172);
+    text-align: right;
+}
+.tukiduki{
+    font-size: 15px;
+    color: rgb(255, 38, 0);
+    margin: 0;
+}
+.under4{
+    width: 100px;
+    height: 275px;
+    background-color:  rgb(255, 247, 172);
 }
