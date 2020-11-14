@@ -209,7 +209,7 @@ font-family: cursive;
     margin: 0;
 }
 .under2{
-    width: 120px;
+    width: 150px;
     height: 275px;
     background-color: rgb(255, 247, 172);
 }
@@ -226,6 +226,26 @@ font-family: cursive;
 }
 .under4{
     width: 100px;
-    height: 275px;
+    height:275px;
     background-color:  rgb(255, 247, 172);
+}
+.HITACHI{
+    width: 280px;
+    height: 45px;
+    background-color:  rgb(255, 247, 172);
+}
+.TOKIWA{
+width: 150px;
+height: 45px;
+background-color:rgb(255, 247, 172);
+}
+.big{
+    width: 100%;
+    height: 380px;
+    background-color:rgb(255, 247, 172);
+}
+.lastword{
+    font-size: 20px;
+    color: black;
+    margin: 0;
 }
