@@ -16,7 +16,7 @@
 }
 .sans1{
    width: 1259px;
-   height: 40px;
+   height: 25px;
    background-color: navy;
    left: 30px;
    right: 0px;
@@ -24,7 +24,8 @@
 }
 .white_text{
     color: white;
-    font-size: 25px;
+    font-size: 17.5x;
+    margin-right: 150px;
 }
 .text1{
     color:black;
@@ -74,6 +75,9 @@
     background-color: dimgrey;
     text-align:center;
     border-radius:30px;
+}
+.sans3 p{
+    line-height:200px;
 }
 .text8{
     color:white;
@@ -276,4 +280,32 @@ border-radius:30px;
 font-size: 10px;
 color: white;
 margin: 0;
+}
+.ace1{
+    width: 1259px;
+    height:100px;
+    background-color: white;
+}
+.text14{
+    font-size: 20px;
+    color:rgb(255, 38, 0) ;
+    font-weight:bold;
+    margin: 0;
+}
+.text15{
+    font-size: 15px;
+    color: grey;
+    font-weight:bold;
+    margin-right: 100px;
+}
+.ace2{
+    width: 259px;
+    height:75px;
+    background-color: white;
+    text-align: right
+}
+.ace3{
+    width: 700px;
+    height:75px;
+    background-color: grey;
 }
