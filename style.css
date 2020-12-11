@@ -83,6 +83,7 @@
     color:white;
     font-size: 15px;
     font-family: cursive;
+    margin: 0;
 }
 .sans4{
     width: 640px;
@@ -299,13 +300,42 @@ margin: 0;
     margin-right: 100px;
 }
 .ace2{
-    width: 259px;
-    height:75px;
+    width: 239px;
+    height:60px;
     background-color: white;
-    text-align: right
+    
 }
 .ace3{
-    width: 700px;
-    height:75px;
-    background-color: grey;
+    width: 450px;
+    height:60px;
+    background-color: darkgrey;
+}
+.text16{
+    font-size: 15px;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:25px;
+}
+.text16 p{
+    line-height:75px;
+}
+.ace4{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+.ace5{
+    width: 450px;
+    height: 100px;
+    background-color: darkgrey;
+}
+.ace6{
+    width: 100%;
+    height: 150px;
+    background-color: white                 ;
+}
+.ace7{
+    width: 200px;
+    height: 50px;
+    background-color:rgb(255, 38, 0) 
 }
