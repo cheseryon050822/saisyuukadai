@@ -314,15 +314,33 @@ margin: 0;
 .ace6{
     width: 100%;
     height: 50px;
-    background-color: white                 ;
+    background-color: white;
 }
 
 .text17{
     font-size: 17.5px;
     color: white;
     text-align:center;
+    margin: 0;
 }
 .ace7 p{
     line-height: 40px;
 }
-.ace
+.rade1{
+    width: 450px;
+    height: 60px;
+    background-color: rgb(206, 203, 203);
+    border: 0;
+}
+.rade2{
+    width: 450px;
+    height: 100px;
+    background-color: rgb(206, 203, 203);
+    border: 0;
+}
+.ace7{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(255, 38, 0);
+    border-radius:30px;    
+}
